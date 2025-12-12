@@ -1,0 +1,9 @@
+{
+  "identityId": "12345",
+  "userName": "Tufail",
+  "emails": ["tufailahmedkhan@gmail.com", "neha@gmail.com","varsha@gmail.com"],
+  "entitlements": [
+    {"name": "GroupMembership", "value": "Finance-Dept"},
+    {"name": "AppAccess", "value": "Salesforce"}
+  ]
+}
